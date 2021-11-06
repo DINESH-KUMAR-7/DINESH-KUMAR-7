@@ -1,22 +1,37 @@
-<h2 align="center">Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dinesh Kumar  </h2>
+<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dinesh Kumar  </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&center=true&lines=An+Developer;Designer;Exuberant+Detective)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&center=true&vCenter=true&lines=An+Developer;UI+%2F+Front-End+Designer;Exuberant+Detective)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dinesh%20Kumar%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-aa5348194/)](https://www.linkedin.com/in/dinesh-kumar-aa5348194/)
-[![Gmail Badge](https://img.shields.io/badge/-Dineshkumar-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dineshm0705@gmail.com/)](mailto:dineshm0705@gmail.com)
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Linked%20In%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-aa5348194/)](https://www.linkedin.com/in/dinesh-kumar-aa5348194/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dineshm0705@gmail.com/)](mailto:dineshm0705@gmail.com)
+<a href="https://github.com/DINESH-KUMAR-7">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+-->
+
 <p align="center">
   <a href="https://github.com/DINESH-KUMAR-7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DINESH-KUMAR-7"/></a>
   <a href="https://github.com/DINESH-KUMAR-7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DINESH-KUMAR-7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/DINESH-KUMAR-7">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <a>
+        <img alt="Mail" title="Mail ID" src="https://img.shields.io/badge/-Mail%20Id-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dineshm0705@gmail.com/"/>
+    </a>
+    <a>
+        <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/-Linked%20In%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-aa5348194/"/>
+    </a>
 </p>
 
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  ***About me ,***
 
+<h3 style="font-family:Fira Code">Hi everyone, 
+Welcome to the Story of <b>DK's Life</b>,<br>
+Protagonist & Antagonist: Dinesh Kumar, <br>
+An Exuberant and Daring Kid, Who's caring a Biggest dream in his hand to be achieved. Thinking he can change this world, Works Daily to achieve his dream. Yes he was failure and feared to make moves, but <b> not now</b>, Accepting the truth and Facing the fears gives him confidence and power to move on. Still Lot more to Achieve and </h3>
+
+> <p style="font-family:JetBrains Mono"> "I Don' want to be the Best , I Just want to do my best" <br> -DK</p>
 
 <br>
 
