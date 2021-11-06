@@ -1,7 +1,13 @@
-<h1 align="center">Welcome , I'm Dinesh Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h2 align="center">Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dinesh Kumar  </h2>
 
-<h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&center=true&lines=An+Developer;Designer;Exuberant+Detective)](https://git.io/typing-svg)
+
+
 <p align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Dinesh%20Kumar%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-aa5348194/)](https://www.linkedin.com/in/dinesh-kumar-aa5348194/)
+[![Gmail Badge](https://img.shields.io/badge/-Dineshkumar-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dineshm0705@gmail.com/)](mailto:dineshm0705@gmail.com)
+
   <a href="https://github.com/DINESH-KUMAR-7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DINESH-KUMAR-7"/></a>
   <a href="https://github.com/DINESH-KUMAR-7?tab=followers">
@@ -9,15 +15,13 @@
     <a href="https://github.com/DINESH-KUMAR-7">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-</h1>
+
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  ***About me ,***
 
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
+<br>
 
 ## <h1>🔥 Streak stats
 
@@ -27,6 +31,8 @@
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
+
+<br>
 
 ## <h1>🛠️ My favorite tools
 
@@ -90,7 +96,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-
+<br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <h1>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Github Status
