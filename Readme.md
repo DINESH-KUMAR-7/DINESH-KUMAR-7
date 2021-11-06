@@ -2,12 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&center=true&lines=An+Developer;Designer;Exuberant+Detective)](https://git.io/typing-svg)
 
-
-<p align="center">
-
 [![Linkedin Badge](https://img.shields.io/badge/-Dinesh%20Kumar%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-kumar-aa5348194/)](https://www.linkedin.com/in/dinesh-kumar-aa5348194/)
 [![Gmail Badge](https://img.shields.io/badge/-Dineshkumar-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dineshm0705@gmail.com/)](mailto:dineshm0705@gmail.com)
-
+<p align="center">
   <a href="https://github.com/DINESH-KUMAR-7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DINESH-KUMAR-7"/></a>
   <a href="https://github.com/DINESH-KUMAR-7?tab=followers">
